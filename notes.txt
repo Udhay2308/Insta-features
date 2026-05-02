@@ -13,3 +13,8 @@
 => User
     -> Followers
     -> Following
+
+=> In post => (caption:String,
+               img_url:String,
+               user:String,
+               createdAt:date and time )
